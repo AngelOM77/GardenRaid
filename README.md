@@ -1,2 +1,2 @@
 # garden-raid
-Project card game
+This is a test repository, to practice github funcionalities.
